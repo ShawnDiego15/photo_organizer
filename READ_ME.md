@@ -15,6 +15,9 @@ Instructions on Setting up Your Enviornment:
 4. In the searchbar, type "Python". Find the Python extension and click install.
 5. Click on "File" in the top left of your VSCode Window and select "Open Folder".
 6. Navigate to the folder "photo_organizer" and select it.
+7. Once you are in the "photo_organizer" folder within VSCode, click on "New Folder" in the top left of the file browser.
+8. Name this folder "unorganized_media".
+9. Repeat step 7, naming the second folder "organized_media".
 
 Instructions on Testing Python Installation (Optional):
 1. Click on the "Explorer" tab, on the left side of the screen within VSCode.
