@@ -4,7 +4,7 @@ The goal of the photo organizer application is to organize a folder of media (`.
 
 The end result will be as follows:
 - A photo taken on 5/4/2025 is currently in a folder with photos taken from 1/1/2025 to 5/4/2025.
-- Upon execution, the photo from 5/4/2025 will now me in a folder with a file name '2025-05-04'
+- Upon execution, the photo from 5/4/2025 will now be in a folder with a file name '2025-05-04'
 
 ***NOTE:*** By default, this program MOVES files and DOES NOT COPY them. Files that are in an unorganized folder will not exist after execution as they will be moved to an organized folder.
 
