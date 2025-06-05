@@ -9,7 +9,10 @@ from PIL.ExifTags import TAGS
 import exifread
 
 SOURCE_FOLDER = 'unorganized_media'
-DEST_FOLDER = 'organized_media' # Set to SOURCE_FOLDER to organize in place
+# Potential for working within each drive: /media/shawn/MyDrive
+#   E:/MyPhotos
+#   Change depending on file structure.
+DEST_FOLDER = SOURCE_FOLDER # Set to SOURCE_FOLDER to organize in place
 
 def get_exif_date(filepath):
     """Reads EXIF data from JPEG/PNG images."""
